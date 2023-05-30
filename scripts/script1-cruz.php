@@ -9,6 +9,7 @@
 /**
 *Este es un comentario de documentación en PHP que describe la función holaMundo
 *
+*
 *@param string $nombre el nombre de la persona a saludar
 *@return string la cadena "Hola, nombre!"
 */
